@@ -23,7 +23,7 @@ scripts_and_outputs = [
     (
         "data_processing.py",
         ["../data/processed/processed_data.npy"],
-    ),  # Add the actual output file(s) for data_processing.py
+    ),  
     (
         "feature_extraction.py",
         ["../data/processed/features.npy", "../data/processed/labels.npy"],
