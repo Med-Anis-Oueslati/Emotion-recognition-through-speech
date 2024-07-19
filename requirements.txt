@@ -10,3 +10,4 @@ scikit-learn
 ipython
 kaggle
 flake8
+plotly
