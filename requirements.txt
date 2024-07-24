@@ -11,3 +11,4 @@ ipython
 kaggle
 flake8
 plotly
+audiomentations
