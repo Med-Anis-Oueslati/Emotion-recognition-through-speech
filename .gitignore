@@ -1,3 +1,4 @@
 .venv/
 data/raw/audio_speech_actors_01-24
 data/raw/TESS_Toronto_emotional_speech_set_data
+app/flagged

@@ -12,3 +12,4 @@ kaggle
 flake8
 plotly
 audiomentations
+gradio==3.50
